@@ -1,9 +1,8 @@
-This is Employee Management Based Website ->
+This is Employee Management Based Website :
 
 For backend : Used Technologies are ->
-
-1.Java Spring Boot
-2.Language Used for code - Kotlin
+1. Java Spring Boot
+2. Kotlin as a programming language
 
 For frontend : Used Technologies are ->
 1. React.js
